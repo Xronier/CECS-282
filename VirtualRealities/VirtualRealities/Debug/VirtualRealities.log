@@ -1,0 +1,7 @@
+﻿  VirtualRealities.cpp
+C:\Users\hinab\Documents\GitHub\work\VirtualRealities\VirtualRealities\TicTacToeBoard.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hinab\Documents\GitHub\work\VirtualRealities\VirtualRealities\VirtualRealities.cpp(11,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\hinab\Documents\GitHub\work\VirtualRealities\VirtualRealities\VirtualRealities.cpp(82,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hinab\Documents\GitHub\work\VirtualRealities\VirtualRealities\VirtualRealities.cpp(98,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hinab\Documents\GitHub\work\VirtualRealities\VirtualRealities\VirtualRealities.cpp(145,32): warning C4018: '>': signed/unsigned mismatch
+  VirtualRealities.vcxproj -> C:\Users\hinab\Documents\GitHub\work\VirtualRealities\Debug\VirtualRealities.exe
